@@ -1,0 +1,82 @@
+{
+  "name": "aasaam-vuetify-datetime",
+  "version": "0.0.0",
+  "private": false,
+  "description": "aasaam-vuetify-datetime picker component",
+  "author": {
+    "name": "Art Mary",
+    "email": "artmary.ir@gmail.com"
+  },
+  "main": "src/components/index.js",
+  "homepage": "",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@aasaam/date-time": "^0"
+  },
+  "files": [
+    "src/*",
+    "*.json",
+    "README.md"
+  ],
+  "devDependencies": {
+    "@babel/polyfill": "^7.4",
+    "vuetify": "^2.4",
+    "@vue/cli-plugin-babel": "~4.5",
+    "@vue/cli-plugin-eslint": "~4.5",
+    "@vue/cli-service": "~4.5",
+    "babel-eslint": "^10.1",
+    "core-js": "^3.6",
+    "eslint": "^6.7",
+    "eslint-plugin-vue": "^6.2",
+    "node-sass": "^5.0",
+    "sass-loader": "^10.1",
+    "vue": "^2.6",
+    "vue-cli-plugin-vuetify": "~2.1",
+    "vue-template-compiler": "^2.6"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie <= 10"
+  ],
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [
+    "date",
+    "i18n",
+    "gregorian",
+    "persian",
+    "time",
+    "vue.js",
+    "vue",
+    "nuxt",
+    "datetimepicker",
+    "vue-component",
+    "vuetify"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}

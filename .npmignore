@@ -1,0 +1,5 @@
+node_modules/
+tmp/
+package-lock.json
+src/assets/
+public/
