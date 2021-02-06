@@ -1,15 +1,13 @@
-# aasaam-vuetify-datetime-picker
+# aasaam-vuetify-datetime
 
-<!-- ![npm version](https://badge.fury.io/js/aasaam-vuetify-datetime.svg)
-![issues](https://img.shields.io/bitbucket/issues-raw/artmarydotir/vuetify-datetime-picker?style=flat-square)
-![license ](https://img.shields.io/npm/l/aasaam-vuetify-datetime?style=flat-square) -->
+![dependencies](https://img.shields.io/david/artmarydotir/aasaam-vuetify-datetime) ![size](https://img.shields.io/bundlephobia/min/aasaam-vuetify-datetime) ![issues](https://img.shields.io/github/issues/artmarydotir/aasaam-vuetify-datetime) ![version](https://img.shields.io/npm/v/aasaam-vuetify-datetime)
 
 ## Installation
 
 Sure your project is Vue project, and has Vuetify as UI framework, then:
 
 ```
-npm install aasaam-vuetify-datetime-picker
+npm install aasaam-vuetify-datetime
 
 ```
 
@@ -18,8 +16,8 @@ npm install aasaam-vuetify-datetime-picker
 Add these line into your component:
 
 ```
-import DateTimePicker from 'aasaam-vuetify-datetime-picker/src/components/DateTimePicker';
-import RangeDateTimePicker from 'aasaam-vuetify-datetime-picker/src/components/RangeDateTimePicker';
+import DateTimePicker from 'aasaam-vuetify-datetime/src/components/DateTimePicker';
+import RangeDateTimePicker from 'aasaam-vuetify-datetime/src/components/RangeDateTimePicker';
 
 export default {
     components: {
@@ -37,10 +35,10 @@ export default {
 
 ### Full Documentation
 
-- [Documentation]()
+- [Documentation](https://artmarydotir.github.io/datetime-docs/dist/#/)
 
-### Demo on codepen
+### Demo on storybook
 
-- [Demo]()
+- [Demo](https://artmarydotir.github.io/datetime-docs/story-build/)
 
-<img src="" alt="datetime">
+<img src="https://github.com/artmarydotir/aasaam-vuetify-datetime/blob/main/src/assets/datetime-picker.png" alt="datetime">

@@ -2,13 +2,13 @@
   "name": "aasaam-vuetify-datetime",
   "version": "0.0.1",
   "private": false,
-  "description": "aasaam-vuetify-datetime picker component",
+  "description": "aasaam-vuetify-persian-datetime picker component",
   "author": {
     "name": "Art Mary",
     "email": "artmary.ir@gmail.com"
   },
   "main": "src/components/index.js",
-  "homepage": "",
+  "homepage": "https://github.com/artmarydotir/aasaam-vuetify-datetime/blob/main/README.md",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -59,7 +59,7 @@
     "not ie <= 10"
   ],
   "bugs": {
-    "url": ""
+    "url": "https://github.com/artmarydotir/aasaam-vuetify-datetime/issues"
   },
   "keywords": [
     "date",
@@ -77,6 +77,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/artmarydotir/aasaam-vuetify-datetime.git"
   }
 }
